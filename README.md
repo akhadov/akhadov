@@ -4,3 +4,5 @@
 - I’m currently learning software architecture and design principles.
 
 You can reach out to me via shakhriyor.akhadov@gmail.com
+
+![Akhadov's github stats](https://github-readme-stats.vercel.app/api?username=akhadov&show_icons=true)
