@@ -6,3 +6,4 @@
 You can reach out to me via shakhriyor.akhadov@gmail.com
 
 ![Akhadov's github stats](https://github-readme-stats.vercel.app/api?username=akhadov&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhadov&layout=compact)
