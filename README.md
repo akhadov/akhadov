@@ -1,11 +1,11 @@
-### Hi there, I'm Shakhriyor Akhadov! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=akhadov&color=blue)</div>
+### Hi there, I'm Shakhriyor Akhadov! 👋 
 
-[![LinkedIn URL](https://www.linkedin.com/in/shakhriyor-akhadov-657430226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrnnhyrRGTFyEckONY4roog%3D%3D).
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shakhriyor-akhadov)
 
 ## **I'm a .NET Software Engineer.**
 
 - 🎯 **I’m currently learning**: - software architecture and design principles.
-- 💬 **Ask me about**: .NET, DDD, CQRS, RESTful APIs, PostgreSQL
+- 💬 **Ask me about**: .NET, ASP.NET, RESTful APIs, PostgreSQL
 - 📫 **How to reach me**: Reach out via shakhriyor.akhadov@gmail.com or connect with me on LinkedIn! 👆
 
 <hr/>
