@@ -1,6 +1,6 @@
 ### Hi there, I'm Shakhriyor Akhadov! 👋 
 
-[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shakhriyor-akhadov)
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://shorturl.at/eDFMS)
 
 ## **I'm a .NET Software Engineer.**
 
