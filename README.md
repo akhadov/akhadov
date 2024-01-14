@@ -13,6 +13,7 @@
 <a href="https://github.com/akhadov">
   <img src="https://github-readme-stats.vercel.app/api?username=akhadov&count_private=true&show_icons=true&hide=stars" />
 </a>
+
 ---
 💻 Main Tech Stack
 
