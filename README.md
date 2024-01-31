@@ -2,7 +2,7 @@
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://shorturl.at/eDFMS)
 
-## **I'm a .NET Software Engineer.**
+## **I'm a Software Engineer.**
 
 - 🎯 **I’m currently learning**: - software architecture and design principles.
 - 💬 **Ask me about**: .NET, ASP.NET, RESTful APIs, PostgreSQL
