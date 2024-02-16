@@ -12,22 +12,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhadov&count_private=true&show_icons=true&hide=stars)
 
-
-<div id="github-stats"></div>
-
-<script>
-    fetch('https://api.github.com/users/akhadov/repos')
-    .then(response => response.json())
-    .then(data => {
-        const totalCommits = data.reduce((acc, repo) => acc + repo.stargazers_count, 0);
-        document.getElementById('github-stats').innerHTML = `
-            <img src="https://github-readme-stats.vercel.app/api?username=akhadov&count_private=true&show_icons=true&hide=stars&custom_title=GitHub%20Stats%20${new Date().getFullYear()}&theme=dark" alt="GitHub stats" />
-            <p>Total commits in ${new Date().getFullYear()}: ${totalCommits}</p>
-        `;
-    })
-    .catch(error => console.error('Error fetching GitHub stats:', error));
-</script>
-
 ---
 💻 Main Tech Stack
 
