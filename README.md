@@ -10,10 +10,7 @@
 
 <hr/>
 
-<a href="https://github.com/akhadov">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhadov&count_private=true&show_icons=true&hide=stars" />
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhadov&show_icons=true)
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhadov&show_icons=true)
 
 ---
 💻 Main Tech Stack
