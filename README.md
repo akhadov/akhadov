@@ -1,4 +1,4 @@
-### Hi there, I'm Shakhriyor Akhadov! 👋 
+### Hi there, I'm Abdullah Akhadov! 👋 
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://shorturl.at/eDFMS)
 
