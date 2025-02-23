@@ -6,7 +6,7 @@
 
 - 🎯 **I’m currently learning**: - software architecture and design principles.
 - 💬 **Ask me about**: .NET, ASP.NET, RESTful APIs, PostgreSQL
-- 📫 **How to reach me**: Reach out via shakhriyor.akhadov@gmail.com or connect with me on LinkedIn! 👆
+- 📫 **How to reach me**: Reach out via abdullahakhadov@gmail.com or connect with me on LinkedIn! 👆
 
 <hr/>
 
